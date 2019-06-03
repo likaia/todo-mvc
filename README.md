@@ -30,3 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ###项目效果图
 
+<img src="https://github.com/likaia/todo-mvc/blob/master/public/img/todo-img.png">
